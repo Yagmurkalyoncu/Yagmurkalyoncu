@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I’m Yağmur  
 
-<!--
-**Yagmurkalyoncu/Yagmurkalyoncu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering student (3rd year)  
+📊 Passionate about **Data Science**, **Machine Learning**, and **Artificial Intelligence**  
+💻 Actively learning Python, data analysis, and ML model development  
+🚀 Exploring algorithms, data structures, and scalable AI systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack & Tools
+- Languages: Python, C#, C
+- Data Science: Pandas, NumPy, Scikit-learn
+- Databases: MySQL
+- Tools: Git, GitHub, VS Code, PyCharm  
+
+---
+
+### 📌 Current Focus
+- Improving skills in **machine learning** and **AI applications**  
+- Working on small projects to bridge theory and practice  
+- Contributing to open-source and collaborative projects  
+
+---
+
+### 🌍 About Me
+I believe technology should create freedom and opportunities.  
+One of my goals is to work on projects that can be done **anywhere in the world**, combining my love for discovery and learning.  
+
+📫 **How to reach me:**  
+- [LinkedIn](http://www.linkedin.com/in/yağmur-kalyoncu-8b0147289)  
+- [Email](kalyoncuyagmur67@gmail.com)  
