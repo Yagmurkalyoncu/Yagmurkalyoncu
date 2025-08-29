@@ -27,5 +27,5 @@ I believe technology should create freedom and opportunities.
 One of my goals is to work on projects that can be done **anywhere in the world**, combining my love for discovery and learning.  
 
 📫 **How to reach me:**  
-- [LinkedIn](www.linkedin.com/in/yagmur-kalyoncu-8b0147289)  
+- [LinkedIn](https://www.linkedin.com/in/ya%C4%9Fmur-kalyoncu-8b0147289/)  
 - [Email](kalyoncuyagmur67@gmail.com)  
