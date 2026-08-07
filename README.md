@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Yağmur  
 
-🎓 Computer Engineering student (3rd year)  
+🎓 Computer Engineering student (4th year)  
 📊 Passionate about **Data Science**, **Machine Learning**, and **Artificial Intelligence**  
 💻 Actively learning Python, data analysis, and ML model development  
 🚀 Exploring algorithms, data structures, and scalable AI systems  
